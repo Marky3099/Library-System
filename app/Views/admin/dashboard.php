@@ -1,0 +1,1 @@
+<a type="button" href="<?=base_url("/logout")?>">Logout</a>
